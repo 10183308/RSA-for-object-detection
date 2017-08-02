@@ -2,7 +2,7 @@
 
 Codebase for *Recurrent Scale Approximation for Object Detection in CNN* published at **ICCV 2017**, [[arXiv]](https://arxiv.org/abs/1707.09531). Here we offer the training and test code for two modules in the paper, `scale-forecast network` and `recurrent scale approximation (RSA)`. Models for face detection trained on some open datasets are also provided.
 
-**Note: This project is still underway. Please stay tuned for more features soon!**
+<span style="color:red">**Note: This project is still underway. Please stay tuned for more features soon!**</span>
 
 ## Codebase at a Glance
 
